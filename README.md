@@ -1,4 +1,4 @@
-# Snake GAme
+# Snake Game
 
 🐍 Snake Game (HTML, CSS & JavaScript)
 
