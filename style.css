@@ -1,0 +1,26 @@
+*
+{
+    margin:0%;
+    padding:0;
+    height:100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#gameCanvas
+{
+     border: 2px solid #fff;
+      background: #111;
+}
+
+#score
+{
+    color: #fff;
+    position: absolute;
+      top: 20px;
+      left: 20px;
+      font-size: 20px;
+}
